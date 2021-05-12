@@ -3,7 +3,7 @@
 int suma_digitos(int n1);
 
 int main(void){
-    int n = 10;
+    int n = 14;
 
     printf("%d", suma_digitos(n));
 
